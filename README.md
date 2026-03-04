@@ -181,6 +181,4 @@ The data pipeline is fully operational. The following steps complete the end-to-
 
 **Abdulaziz Kikanga** is a Lifecycle & Retention Strategist specializing in Web3 platforms. With 7+ years of data systems experience in international development and a growing practice in DeFi, Crypto Trading, and NFT retention infrastructure, he builds end-to-end systems that connect on-chain behavior to personalized user communication.
 
-**DeFi Safety School** — Substack newsletter, 1,200+ subscribers
-
 [LinkedIn](https://www.linkedin.com/in/abdulazizkikanga/) · [GitHub](https://github.com/abdulazizkikanga/zora-retention-stack)
